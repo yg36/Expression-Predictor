@@ -1,13 +1,33 @@
-# **Title: Facial Expression Recognition**
+# Expression Predictor
 
+## Overview
 
-## **1. Methodology**
-<img src="https://user-images.githubusercontent.com/7460892/207003643-e03c8964-3f16-4a62-9a2d-b1eec5d8691f.png" width="80%" height="80%">
+Notebook experiment for facial expression prediction and image classification practice.
 
+Project type: Jupyter notebook project.
 
-## **2. Description**
-<img src="https://user-images.githubusercontent.com/7460892/207003772-ba2061bc-f8fd-4479-ba42-4712328b7085.png" width="80%" height="80%">
+## What This Repository Contains
 
+- `Expression_model.ipynb`
+- `README.md`
 
-## **3. Input / Output**
-<img src="https://user-images.githubusercontent.com/7460892/207004091-8f67548d-50ac-49c3-b7cb-ef8ec18a6491.png" width="40%" height="40%">
+## Tech Stack
+
+Jupyter Notebook
+
+## How To Run / Use
+
+Open the notebook in Jupyter/VS Code and run the cells from top to bottom:
+
+- Expression_model.ipynb
+
+## Current Status
+
+This repository has enough structure to be understandable from the README and file layout.
+
+## Notes For Reviewers
+
+- Start with the overview and key files above.
+- If this is a notebook repository, run it in a clean Jupyter or VS Code notebook environment.
+- If this is a frontend app, run the install/build commands before judging the project.
+- Some older practice repositories are kept public for learning history, not as primary portfolio pieces.
